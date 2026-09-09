@@ -1,0 +1,6 @@
+{
+  "name": "Spider Hunt",
+  "description": "3D survival game controlling a giant predator spider hunting prey and escaping a massive frog predator in a realistic jungle world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
